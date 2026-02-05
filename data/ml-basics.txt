@@ -1,0 +1,29 @@
+Machine Learning Basics
+
+Machine Learning (ML) is a subset of artificial intelligence that enables computers to learn and make decisions from data without being explicitly programmed.
+
+Types of Machine Learning:
+1. Supervised Learning - Uses labeled data to train models
+2. Unsupervised Learning - Finds patterns in unlabeled data  
+3. Reinforcement Learning - Learns through trial and error
+
+Popular ML Algorithms:
+- Linear Regression
+- Decision Trees
+- Neural Networks
+- Support Vector Machines
+- Random Forest
+
+Applications:
+- Image recognition
+- Natural language processing
+- Recommendation systems
+- Fraud detection
+- Autonomous vehicles
+
+Key Concepts:
+- Training data
+- Test data
+- Overfitting
+- Cross-validation
+- Feature engineering

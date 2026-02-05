@@ -1,0 +1,28 @@
+{
+  "name": "rag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "RAG",
+    "AI",
+    "LLM",
+    "Pinecone",
+    "OpenAI",
+    "Retrieval-Augmented Generation"
+  ],
+  "author": "Daniyal saddiqui",
+  "license": "ISC",
+  "dependencies": {
+    "@pinecone-database/pinecone": "^6.1.3",
+    "dotenv": "^17.2.3",
+    "nodemon": "^3.1.11",
+    "openai": "^6.16.0",
+    "pdf-parse": "^2.4.5"
+  }
+}
